@@ -1,0 +1,7 @@
+README.md
+setup.py
+PlaneCoordinates/__init__.py
+PlaneCoordinates.egg-info/PKG-INFO
+PlaneCoordinates.egg-info/SOURCES.txt
+PlaneCoordinates.egg-info/dependency_links.txt
+PlaneCoordinates.egg-info/top_level.txt
